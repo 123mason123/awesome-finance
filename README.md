@@ -111,6 +111,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Quandl / Nasdaq Data Link](https://data.nasdaq.com/) – Financial and economic datasets.
 - [IEX Cloud](https://iexcloud.io/) – Market data APIs for developers.
 - [FRED](https://fred.stlouisfed.org/) – Federal Reserve economic and financial data.
+- [WeightedShares](https://weightedshares.com/) – Free SEC EDGAR XBRL research tool and public read-only MCP endpoint tracking U.S. stock buybacks vs. stock-based compensation (SBC), True FCF (FCF − SBC), and diluted share counts across 10,400+ companies.
 
 ## Modeling, Analytics & Tools
 
